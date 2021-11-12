@@ -1,9 +1,9 @@
 Pillow
-cv2==4.5.4-dev
-ipywidgets==7.6.5
-matplotlib==3.4.3
-numpy==1.21.4
-pytesseract==0.3.8
-traitlets==5.1.1
+cv2
+ipywidgets
+matplotlib
+numpy
+pytesseract
+traitlets
 voila
 
