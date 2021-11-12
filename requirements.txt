@@ -1,4 +1,4 @@
-PIL
+Pillow
 cv2==4.5.4-dev
 ipywidgets==7.6.5
 matplotlib==3.4.3
