@@ -1,0 +1,9 @@
+Pillow
+cv2
+ipywidgets
+matplotlib
+numpy
+pytesseract
+traitlets
+voila
+
