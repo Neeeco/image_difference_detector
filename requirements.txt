@@ -4,4 +4,5 @@ numpy==1.21.4
 Pillow==8.4.0
 pytesseract==0.3.8
 opencv_python==4.5.4.58
+ipywidgets
 voila
