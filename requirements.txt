@@ -3,6 +3,5 @@ matplotlib==3.4.3
 numpy==1.21.4
 Pillow==8.4.0
 pytesseract==0.3.8
-opencv-python-headless==4.2.0.32
+opencv_python==4.5.4.58
 voila
-ipywidgets
